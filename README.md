@@ -39,7 +39,7 @@
 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
 
-[![portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://lukaid.notion.site/910a655819d74ddd9cb9446486809ebd?pvs=4)
+[![portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://bit.ly/3RoV8o0)
 [![velog](https://img.shields.io/badge/velog-20c997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@lukaid)
 
 </div>
