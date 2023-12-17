@@ -1,38 +1,56 @@
 <div align="center">
-  
-  ![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=0,2,3&fontColor=333333&type=Shark&text=Lukaid&animation=fadeIn)
-</div>
 
-</br>
-</br>
+![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 
-<div align="center">
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Lukaid's+GitHub!👋)](https://git.io/typing-svg)
+
 </div>
 
 </br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukaid-dev&layout=compact&theme=dracula)
+
+</div>
+
+## 🔨Tech Stack 🔨
+
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
+    <p><strong>Language</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+        <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+        <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+    </div>
+    <p><strong>Frameworks and Libraries</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> 
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+    </div>
+    <p><strong>Tools and Other Technologies</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+        <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+        <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+        <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+    </div>
 </div>
 
 </br>
+</br>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+## 🔨 About Me 🔨
+
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
+
+[![portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://lukaid.notion.site/910a655819d74ddd9cb9446486809ebd?pvs=4)
+[![velog](https://img.shields.io/badge/velog-20c997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@lukaid)
+
 </div>
 
 </br>
 </br>
-
-<div align="center">
-  
-  [![portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://lukaid.notion.site/53bb16ebd72f4fd183cbf47dfa5c9e23)
-</div>
