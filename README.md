@@ -6,14 +6,6 @@
 
 </div>
 
-</br>
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukaid-dev&layout=compact&theme=dracula)
-
-</div>
-
 ## 🔨Tech Stack 🔨
 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
@@ -54,3 +46,10 @@
 
 </br>
 </br>
+</br>
+
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukaid-dev&layout=compact&theme=dracula)
+
+</div>
