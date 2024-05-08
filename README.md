@@ -9,6 +9,14 @@
 ## 🔨Tech Stack 🔨
 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
+    <p><strong>Frameworks and Libraries</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+        <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+    </div>
+    <br />
     <p><strong>Language</strong></p>
     <div>
         <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
@@ -16,15 +24,7 @@
         <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
         <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
     </div>
-    <br>
-    <p><strong>Frameworks and Libraries</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> 
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-        <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-    </div>
-    <br>
+    <br />
     <p><strong>Tools and Other Technologies</strong></p>
     <div>
         <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
@@ -34,21 +34,22 @@
     </div>
 </div>
 
-</br>
-</br>
+<br />
+<br />
 
 ## 🔨 About Me 🔨
 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
 
-[![portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://bit.ly/3RoV8o0)
-[![velog](https://img.shields.io/badge/velog-20c997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@lukaid)
+- **Generalist**를 지향하는 풀스택 웹 개발자 이성우입니다.
+- [제 홈페이지](https://www.lukaid.me/)에서 더 많은 정보를 확인하실 수 있습니다.
+- [이전 벨로그](https://velog.io/@lukaid) 이사 중!
 
 </div>
 
-</br>
-</br>
-</br>
+<br />
+<br />
+<br />
 
 <div align="center">
 
