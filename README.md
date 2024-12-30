@@ -11,10 +11,14 @@
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <p><strong>Frameworks and Libraries</strong></p>
     <div>
+        <img src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white">
+        <img src="https://img.shields.io/badge/sveltekit-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white">
+        <br />
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
         <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
-        <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> 
         <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+        <br />
+        <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> 
     </div>
     <br />
     <p><strong>Language</strong></p>
@@ -42,8 +46,7 @@
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
 
 - **Generalist**를 지향하는 풀스택 웹 개발자 이성우입니다.
-- [제 홈페이지](https://www.lukaid.me/)에서 더 많은 정보를 확인하실 수 있습니다.
-- [이전 벨로그](https://velog.io/@lukaid) 이사 중!
+- [저의 블로그](https://www.lukaid.me/main)에서 더 많은 정보를 확인하실 수 있습니다.
 
 </div>
 
