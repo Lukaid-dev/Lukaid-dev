@@ -59,3 +59,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukaid-dev&layout=compact&theme=dracula)
 
 </div>
+
+<!-- https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file -->
